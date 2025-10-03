@@ -1,8 +1,20 @@
-## We make awesome static analysis tools, compilers and toolchains.
+# We research unresearchable.
 
-And soon we're going to publish our open-source projects.
+At Interpretica, we love challenges.
+We like researching potentially impactful areas.
 
-Stay tuned!
+Our areas of expertise:
+ - Static analysis.
+ - Blockchain, including zk systems.
+ - Compilers, toolchains.
+
+## Open-source.
+
+We are publishing all projects that we may share. That's our commitment to the open-source community.
+
+Stay tuned for updates!
+
+## Projects & organizations
 
 Our fleet of organizations:
  - [Isabelle Platform](https://github.com/isabelle-platform)
