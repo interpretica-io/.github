@@ -1,4 +1,4 @@
-![github_header](images/github_header.png)
+![github_header](../images/github_header.png)
 
 # We research unresearchable.
 
