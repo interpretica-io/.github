@@ -1,14 +1,15 @@
 ![github_header](../images/github_header.png)
 
-# We research unresearchable.
+# Interpretica is a research-driven engineering team working on foundational software technologies.
 
-At Interpretica, we love challenges.
-We like researching potentially impactful areas.
+We specialize in:
 
-Our areas of expertise:
- - Static analysis.
- - Blockchain, including zk systems.
- - Compilers, toolchains.
+- Static analysis
+- Blockchain and zk systems
+- Compilers and toolchains
+
+Our goal is to turn complex theoretical ideas into practical, production-grade tooling and infrastructure.
+We also apply AI where it genuinely improves results - as an instrument, not a trend, and always grounded in solid engineering.
 
 ## Open-source.
 
