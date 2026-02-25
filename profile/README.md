@@ -1,3 +1,5 @@
+![github_header](images/github_header.png)
+
 # We research unresearchable.
 
 At Interpretica, we love challenges.
@@ -23,4 +25,3 @@ Our fleet of organizations:
 
 Minor projects:
  - [fmtparser](https://github.com/fmtparser)
-   
