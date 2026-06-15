@@ -1,3 +1,5 @@
+![github_header](../images/github_header.png)
+
 # Interpretica
 
 Interpretica is a research-driven cybersecurity and software engineering company based in Porto, Portugal.
