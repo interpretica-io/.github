@@ -1,28 +1,60 @@
-![github_header](../images/github_header.png)
+# Interpretica
 
-# Interpretica is a research-driven engineering team working on foundational software technologies.
+Interpretica is a research-driven cybersecurity and software engineering company based in Porto, Portugal.
 
-We specialize in:
+We build static analysis technologies and help engineering teams find vulnerabilities, eliminate complex software defects, and improve reliability of critical systems.
 
-- Static analysis
+Our expertise comes from years of low-level engineering, security research, compiler development, and reverse engineering.
+
+## Expertise
+
+- Static analysis and program analysis
+- Cybersecurity testing
+- Vulnerability research
+- Reverse engineering
+- C/C++ and Rust systems development
+- Compilers and developer tools
+- Embedded software analysis
 - Blockchain and zk systems
-- Compilers and toolchains
 
-Our goal is to turn complex theoretical ideas into practical, production-grade tooling and infrastructure.
-We also apply AI where it genuinely improves results - as an instrument, not a trend, and always grounded in solid engineering.
+## Engineering philosophy
 
-## Open-source.
+We work on problems where understanding the whole system matters.
 
-We are publishing all projects that we may share. That's our commitment to the open-source community.
+Our approach combines:
+- mathematical methods
+- deep code analysis
+- security research
+- practical engineering experience
 
-Stay tuned for updates!
+We build tools that analyze software beyond what traditional testing can reach.
+
+## Open source
+
+We publish projects that reflect our research and engineering work.
+
+Our open-source contributions include developer tools, parsers, infrastructure projects, and experimental technologies.
 
 ## Projects & organizations
 
 Our fleet of organizations:
- - [Isabelle Platform](https://github.com/isabelle-platform)
- - [Intranet Platform](https://github.com/intranet-platform)
- - [DefectDB](https://github.com/defectdb)
+
+- [Isabelle Platform](https://github.com/isabelle-platform)
+- [Intranet Platform](https://github.com/intranet-platform)
+- [DefectDB](https://github.com/defectdb)
 
 Minor projects:
- - [fmtparser](https://github.com/fmtparser)
+
+- [fmtparser](https://github.com/fmtparser)
+
+## Founder
+
+Interpretica was founded by Maxim Menshikov, static analysis researcher and cybersecurity expert.
+
+More:
+https://menshikov.org
+
+## Links
+
+Website: https://interpretica.io  
+LinkedIn: https://www.linkedin.com/company/interpretica
